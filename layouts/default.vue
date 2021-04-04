@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="am-wrapper">
 		<nuxt-link class="has-no-underline" to="/">
 			<am-profile></am-profile>
 		</nuxt-link>
@@ -64,5 +64,30 @@
 	}
 	.has-no-underline {
 		text-decoration: none;
+	}
+
+	.am-wrapper {
+		max-width: 656px;
+	}
+
+	@media screen and (min-width: 425px) and (max-width: 768px) {
+		.am-wrapper {
+			width: 85%;
+			margin: 0 auto;
+		}
+	}
+
+	@media screen and (min-width: 768px) and (max-width: 1024px) {
+		.am-wrapper {
+			width: 75%;
+			margin: 0 auto;
+		}
+	}
+
+	@media screen and (min-width: 1024px) {
+		.am-wrapper {
+			width: 55%;
+			margin: 0 auto;
+		}
 	}
 </style>
