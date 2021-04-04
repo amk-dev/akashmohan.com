@@ -1,6 +1,6 @@
 <template>
-	<div>
-		<h1>{{ article.title }}</h1>
+	<div class="am-article">
+		<h1 class="title am-article-title">{{ article.title }}</h1>
 		<nuxt-content :document="article"></nuxt-content>
 	</div>
 </template>
@@ -15,4 +15,12 @@
 	}
 </script>
 
-<style></style>
+<style>
+	/* .nuxt-content  */
+	.am-article {
+		padding: 24px;
+	}
+	.am-article-title {
+		font-size: 24px;
+	}
+</style>

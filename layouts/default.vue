@@ -21,6 +21,7 @@
 		background: #eeeeee;
 		font-family: 'Lato', sans-serif;
 	}
+	h1,
 	h2,
 	h3 {
 		margin: 0;
@@ -39,7 +40,7 @@
 		font-size: 18px;
 	}
 	.is-size-2 {
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.mt-1 {
 		margin-top: 14px;
