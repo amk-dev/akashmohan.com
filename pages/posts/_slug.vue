@@ -23,4 +23,8 @@
 	.am-article-title {
 		font-size: 24px;
 	}
+	.nuxt-content {
+		line-height: 24px;
+		font-size: 18px;
+	}
 </style>
