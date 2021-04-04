@@ -37,10 +37,13 @@
 	} */
 
 	.is-size-1 {
-		font-size: 18px;
+		font-size: 24px;
 	}
 	.is-size-2 {
-		font-size: 16px;
+		font-size: 18px;
+	}
+	.is-size-3 {
+		font-size: 14px;
 	}
 	.mt-1 {
 		margin-top: 14px;

@@ -1,7 +1,7 @@
 <template>
 	<div class="journal-entry">
-		<h2 class="journal-entry-title is-size-1">{{ journalEntry.title }}</h2>
-		<p class="journal-entry-body is-size-1">{{ journalBody }}</p>
+		<h2 class="journal-entry-title is-size-2">{{ journalEntry.title }}</h2>
+		<p class="journal-entry-body is-size-2">{{ journalBody }}</p>
 	</div>
 </template>
 

@@ -2,8 +2,8 @@
 	<figure class="am-profile">
 		<img src="~/assets/am-profile.png" alt="This Is Something Great" />
 		<figcaption>
-			<h2 class="am-name title is-size-1">Akash K</h2>
-			<h3 class="am-description is-size-2">
+			<h2 class="am-name title is-size-2">Akash K</h2>
+			<h3 class="am-description is-size-3">
 				Javascript Engineer / Indie Maker
 			</h3>
 		</figcaption>
