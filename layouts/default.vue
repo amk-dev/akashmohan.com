@@ -1,6 +1,8 @@
 <template>
 	<div>
-		<am-profile></am-profile>
+		<nuxt-link class="has-no-underline" to="/">
+			<am-profile></am-profile>
+		</nuxt-link>
 		<Nuxt />
 	</div>
 </template>
@@ -40,7 +42,7 @@
 		font-size: 14px;
 	}
 	.mt-1 {
-		margin-top: 8px;
+		margin-top: 14px;
 	}
 	.mt-2 {
 		margin-top: 24px;
@@ -55,5 +57,8 @@
 	}
 	a {
 		color: #000;
+	}
+	.has-no-underline {
+		text-decoration: none;
 	}
 </style>
