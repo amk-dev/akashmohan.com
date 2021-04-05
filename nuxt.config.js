@@ -29,7 +29,10 @@ export default {
 				property: 'og:description',
 				content: 'Opinions, Tech Writeups, Startup Thoughts, Journals',
 			},
-			{ property: 'og:image', content: '/ogimage.png' },
+			{
+				property: 'og:image',
+				content: 'https://akashmohan.com/ogimage.png',
+			},
 			{ name: 'twitter:card', content: 'summary_large_image' },
 			{ property: 'twitter:domain', content: 'akashmohan.com' },
 			{ property: 'twitter:url', content: 'https://akashmohan.com' },
