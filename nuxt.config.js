@@ -17,7 +17,7 @@ export default {
 			{
 				hid: 'description',
 				name: 'description',
-				content: 'Personal Website Of Akash Mohan',
+				content: 'Opinions, Tech Writeups, Startup Thoughts, Journals',
 			},
 		],
 		link: [
