@@ -19,6 +19,29 @@ export default {
 				name: 'description',
 				content: 'Opinions, Tech Writeups, Startup Thoughts, Journals',
 			},
+			{ property: 'og:url', content: 'https://akashmohan.com' },
+			{ property: 'og:type', content: 'website' },
+			{
+				property: 'og:title',
+				content: 'Akash Mohan 🚀 | Javascript Engineer',
+			},
+			{
+				property: 'og:description',
+				content: 'Opinions, Tech Writeups, Startup Thoughts, Journals',
+			},
+			{ property: 'og:image', content: '/ogimage.png' },
+			{ name: 'twitter:card', content: 'summary_large_image' },
+			{ property: 'twitter:domain', content: 'akashmohan.com' },
+			{ property: 'twitter:url', content: 'https://akashmohan.com' },
+			{
+				name: 'twitter:title',
+				content: 'Akash Mohan 🚀 | Javascript Engineer',
+			},
+			{
+				name: 'twitter:description',
+				content: 'Opinions, Tech Writeups, Startup Thoughts, Journals',
+			},
+			{ name: 'twitter:image', content: '/ogimage.png' },
 		],
 		link: [
 			{
