@@ -44,7 +44,10 @@ export default {
 				name: 'twitter:description',
 				content: 'Opinions, Tech Writeups, Startup Thoughts, Journals',
 			},
-			{ name: 'twitter:image', content: '/ogimage.png' },
+			{
+				name: 'twitter:image',
+				content: 'https://akashmohan.com/ogimage.png',
+			},
 		],
 		link: [
 			{
