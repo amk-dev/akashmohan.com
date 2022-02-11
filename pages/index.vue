@@ -1,5 +1,17 @@
 <template>
 	<div class="home-wrapper">
+		<section class="who-am-i">
+			<am-section-header class="mt-3" title="Myself"></am-section-header>
+			<p>
+				I currently work as a frontend engineer at locale.ai.I make
+				short videos about everyday techhacks on instagram. ( Currently
+				13K+ followers ). I've a couple of side projects coming in,
+				follow me on
+				<a href="https://instagram.com/akash.k.mohan">Instagram</a> to
+				updated.
+			</p>
+		</section>
+
 		<section>
 			<am-section-header
 				class="mt-3"
@@ -11,13 +23,13 @@
 		</section>
 
 		<section>
-			<am-section-header
+			<!-- <am-section-header
 				class="mt-3"
 				title="Journal"
 				description="Short Everyday Journals from my life as a Software Engineer And Indie Maker"
-			></am-section-header>
+			></am-section-header> -->
 
-			<journal-entries :journals="journals"></journal-entries>
+			<!-- <journal-entries :journals="journals"></journal-entries> -->
 		</section>
 	</div>
 </template>
@@ -25,13 +37,11 @@
 <script>
 	import BlogPosts from '../components/BlogPosts.vue'
 	import AmSectionHeader from '../components/AmSectionHeader.vue'
-	import JournalEntries from '../components/JournalEntries.vue'
 
 	export default {
 		components: {
 			AmSectionHeader,
 			BlogPosts,
-			JournalEntries,
 		},
 		async asyncData({ $content, params }) {
 			const articles = await $content('articles')
@@ -54,5 +64,8 @@
 <style>
 	.home-wrapper {
 		padding: 0px 24px;
+	}
+	.who-am-i {
+		line-height: 24px;
 	}
 </style>
