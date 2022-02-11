@@ -3,10 +3,11 @@
 		<section class="who-am-i">
 			<am-section-header class="mt-3" title="Myself"></am-section-header>
 			<p>
-				I currently work as a frontend engineer at locale.ai.I make
-				short videos about everyday techhacks on instagram. ( Currently
-				13K+ followers ). I've a couple of side projects coming in,
-				follow me on
+				I currently work as a frontend engineer at
+				<a href="https://locale.ai">locale.ai</a>.I make short videos
+				about everyday techhacks on instagram. ( Currently 13K+
+				followers ). I've a couple of side projects coming in, follow me
+				on
 				<a href="https://instagram.com/akash.k.mohan">Instagram</a> to
 				updated.
 			</p>
