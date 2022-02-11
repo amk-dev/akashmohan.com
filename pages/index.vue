@@ -9,7 +9,7 @@
 				followers ). I've a couple of side projects coming in, follow me
 				on
 				<a href="https://instagram.com/akash.k.mohan">Instagram</a> to
-				updated.
+				stay updated.
 			</p>
 		</section>
 
