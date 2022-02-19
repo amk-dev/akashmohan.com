@@ -19,3 +19,7 @@ Here are some of the things that i've worked at my time in Locale.ai.
 #### 3. Console Listing that's used all across the product
 
 <div style="border-radius: 12px; padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/679500681?h=7bc8c85efd&autoplay=1&loop=1&color=ffffff&title=0&byline=0&portrait=0" style="border-radius: 12px;position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+#### 4. A Calendar That Scrolls Infinitly, Supports Unlimited Highlighted Days, And Recieves Inputs from multiple areas
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/679527615?h=9d7cfabcb0&loop=1&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
