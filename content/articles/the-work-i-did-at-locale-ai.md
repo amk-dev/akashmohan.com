@@ -1,5 +1,5 @@
 ---
-title: 'The work i did at locale.ai'
+title: 'The work i did at locale.ai (wip)'
 ---
 
 Ok. I've decided to leave Locale.AI, for working on a problem that's more aligned with the growth i want to have long term.
