@@ -6,7 +6,7 @@ Ok. I've decided to leave Locale.AI, for working on a problem that's more aligne
 
 At locale, I met a lot of amazing people, made some awesome memories, and had an amazing start to my career. Thanks for everyone involved and helped me in this amazing journey.
 
-Here are some of the things that i've worked at my time in Locale.ai.
+Here are a few of the things that i've built at my time in Locale.ai.
 
 #### 1. Mini Entity Lookup
 
