@@ -2,11 +2,13 @@
 title: 'The work i did at locale.ai (wip)'
 ---
 
-Ok. I've decided to leave Locale.AI, for working on a problem that's more aligned with the growth i want to have long term.
+<!-- Ok. I've decided to leave Locale.AI, for working on a problem that's more aligned with the growth i want to have long term.
 
 At locale, I met a lot of amazing people, made some awesome memories, and had an amazing start to my career. Thanks for everyone involved and helped me in this amazing journey.
 
-Here are a few of the things that i've built at my time in Locale.ai.
+Here are a few of the things that i've built at my time in Locale.ai. -->
+
+A non exhaustive list of things i've built at locale.ai
 
 #### 1. Shape Filters - Draw On Your Map And Convert Them To Filters
 
